@@ -1,4 +1,3 @@
-
 %module spc
 %{
 	#include "spc.h"

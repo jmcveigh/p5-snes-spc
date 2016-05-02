@@ -1,6 +1,3 @@
-/* SNES SPC-700 DSP emulator C interface (also usable from C++) */
-
-/* snes_spc 0.9.0 */
 #ifndef DSP_H
 #define DSP_H
 

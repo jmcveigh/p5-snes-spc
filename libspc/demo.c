@@ -1,6 +1,6 @@
 /* Records SPC into wave file. Uses dsp_filter to give more authentic sound.
 
-Usage: play_spc [test.spc]
+Usage: demo <in-file.spc>
 */
 
 #include "snes_spc/spc.h"

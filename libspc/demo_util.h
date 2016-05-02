@@ -1,6 +1,3 @@
-/* General-purpose utilities used by demos */
-
-/* snes_spc 0.9.0 */
 #ifndef DEMO_UTIL_H
 #define DEMO_UTIL_H
 

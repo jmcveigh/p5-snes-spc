@@ -1,5 +1,3 @@
-/* WAVE sound file writer for recording 16-bit output during program development */
-
 #ifndef WAVE_WRITER_H
 #define WAVE_WRITER_H
 

@@ -1,6 +1,3 @@
-/* SNES SPC-700 APU emulator C interface (also usable from C++) */
-
-/* snes_spc 0.9.0 */
 #ifndef SPC_H
 #define SPC_H
 
