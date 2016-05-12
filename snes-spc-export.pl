@@ -50,8 +50,8 @@ while(spc::wave_sample_count() < 240 * $spc::spc_sample_rate * 2 )
 	
 	spc::delete_short_arr($buffer);
 	
-	$last_seg_count++ if ($blips[-1] == 0 && $blips[-2] == 0 && $blips[0] == 0 && $blips[1] == 0);
-	last if($last_seg_count == LAST_SEG_MARKER);
+	# $last_seg_count++ if ($blips[-1] == 0 && $blips[-2] == 0 && $blips[0] == 0 && $blips[1] == 0);
+	# last if($last_seg_count == LAST_SEG_MARKER);
 }
 
 spc::spc_filter_delete($spc_filter);
