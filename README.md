@@ -1,10 +1,8 @@
 # p5-snes-spc
 
-This is an SNES SPC music module for Perl.
+This is an SNES SPC ROM music module for Perl.
 
 One is able to play, paint, analyze, remix and export SNES SPC music using the source code.
-
-This is a completed works, in part, by Jason McVeigh of General Software Contracting and the Linux User Group in Orillia, ON, CA.
 
 ## Advanced Tools
 
@@ -33,7 +31,7 @@ This is a completed works, in part, by Jason McVeigh of General Software Contrac
  -- float_ptr
  -- double_ptr
 
-SEE ALSO : {{ [SNES MUSIC : snesmusic.org](http://snesmusic.org) }}
+This is a completed works, in part, by Jason McVeigh of General Software Contracting and the Linux User Group in Orillia, ON, CA.
 
 Made with ♥ by [Jason McVeigh](mailto:jmcveigh@outlook.com) of General Software Contracting
 
